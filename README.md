@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 # Dataset Preparation  
-The repository expects the bike‑sharing datasets (e.g., *citi*, *serveo*, *divvy*) stored as Parquet files with the following layout:
+The repository expects the bike‑sharing datasets (e.g., *NYC*, *Chicago*, *Barcelona*) stored as Parquet files with the following layout:
 
 ```
 data/
