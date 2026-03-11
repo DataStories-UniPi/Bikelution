@@ -1,0 +1,23 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+--find-links https://download.pytorch.org/whl/torch_stable.html
+# 
+contextily==1.5.0
+fastparquet==2024.11.0
+flwr==1.10.0
+geopandas==0.13.0
+geopy==2.4.1
+joblib==1.2.0
+loguru==0.7.3
+matplotlib==3.7.1
+numpy==1.26.4
+pandas==2.2.3
+pmdarima==2.0.4
+pyarrow==17.0.0
+scikit_learn==1.4.2
+shapely==2.0.1
+sktime==0.40.1
+torch==1.13.1
+tqdm==4.67.1
+xgboost==3.0.2
